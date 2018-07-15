@@ -1,3 +1,5 @@
 dependencies:
   - bokeh
   - nbserverproxy
+  - pandas
+  - scipy
