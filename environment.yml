@@ -4,6 +4,6 @@ dependencies:
   - pyviz::panel
   - pyviz::pyviz_comms=0.6.0
   - pyviz::datashader
-  - bokeh::bokeh=1.0.0rc1
+  - bokeh/label/dev::bokeh=1.0.0rc1
   - pyviz/label/dev::holoviews
   - pyviz/label/dev::geoviews
