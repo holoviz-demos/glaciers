@@ -1,5 +1,9 @@
 dependencies:
-  - bokeh
   - nbserverproxy
-  - pandas
-  - scipy
+  - pyviz::param=1.8.1
+  - pyviz::panel
+  - pyviz::pyviz_comms=0.6.0
+  - pyviz::datashader
+  - bokeh::bokeh=1.0.0rc1
+  - pyviz/label/dev::holoviews
+  - pyviz/label/dev::geoviews
