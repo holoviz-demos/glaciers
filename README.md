@@ -1,6 +1,6 @@
 Example for demoing a bokeh server with Binder
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/panel-dmos/glacier-demo/master?urlpath=/proxy/5006/app)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/panel-demos/glacier-demo/master?urlpath=/proxy/5006/app)
 
 Create a `bokeh-app` directory in the repo with a `main.py`.
 This is the application that will be served.
