@@ -1,10 +1,8 @@
-Example for demoing a bokeh server with Binder
+# OGGM Glacier Panel App
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/panel-demos/glacier-demo/master?urlpath=/proxy/5006/app)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/panel-demos/glaciers/master?urlpath=/proxy/5006/app)
 
-Create a `bokeh-app` directory in the repo with a `main.py`.
-This is the application that will be served.
-
+Serves the `app.ipynb` which defines the panel application that will be served.
 
 This repo contains:
 
