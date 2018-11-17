@@ -12,4 +12,7 @@ This repo contains:
   (this last step would go away if the local extension became a proper package)
 - A [panel](https://github.com/pyviz/panel) based app which allows cross-filtering on all global glaciers
 
+For some context and more information about the data sources, see 
+[this blog post](https://oggm.org/2018/11/16/panel-viz/).
+
 ![dashboard screenshot](https://raw.githubusercontent.com/panel-demos/glaciers/master/assets/dashboard.png)
