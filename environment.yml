@@ -1,9 +1,9 @@
 dependencies:
   - nbserverproxy
-  - pyviz::param=1.8.1
-  - pyviz::pyviz_comms=0.6.0
+  - pyviz::param=1.9.0
+  - pyviz::pyviz_comms=0.7.2
   - pyviz::datashader
-  - bokeh::bokeh=1.0.1
-  - pyviz/label/dev::holoviews=1.11.0a10
-  - pyviz/label/dev::geoviews-core=1.6.0a2
-  - pyviz/label/dev::panel=0.2.0a8
+  - bokeh::bokeh=1.1.0
+  - pyviz/label/dev::holoviews=1.12.2
+  - pyviz/label/dev::geoviews-core=1.6.2
+  - pyviz/label/dev::panel=0.5.1
